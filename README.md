@@ -131,21 +131,25 @@ Modes of Transport
 ### Overview
 
 - AWESOME Resource Lists 
-    - Transit: [AWESOME Transit](https://github.com/CUTR-at-USF/awesome-transit), 
-    - Remote Sensing: [AWESOME Remote Sensing Change Detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection), [AWESOME Satellite Image Deep Learning - Techniques](https://github.com/satellite-image-deep-learning/techniques), [AWESOME Deep Vision](https://github.com/kjw0612/awesome-deep-vision), [AWESOME Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
+    - Transit: [AWESOME Transit](https://github.com/CUTR-at-USF/awesome-transit)
+    - Remote Sensing:
+      - [AWESOME Remote Sensing Change Detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection), [AWESOME Satellite Image Deep Learning](https://github.com/satellite-image-deep-learning/techniques)
+      - [AWESOME Deep Vision](https://github.com/kjw0612/awesome-deep-vision), [AWESOME Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
     - Logistics: [AWESOME Supply Chain](https://github.com/Funkmyster/awesome-supply-chain)
     - Autonomous: [AWESOME Autonomous Vehicles Material](https://github.com/manfreddiaz/awesome-autonomous-vehicles), [AWESOME Mobility Machine Learning - Korea](https://github.com/zzsza/Awesome-Mobility-Machine-Learning-Contents) 
     - General: [AWESOME ML Resources](https://github.com/josephmisiti/awesome-machine-learning#python), [AWESOME Datasets (Transportation)](https://github.com/awesomedata/awesome-public-datasets#transportation)
-    - Industry: [AWESOME COMPANIES](https://github.com/chrieke/awesome-geospatial-companies) --- pretty cool!
+    - Industry: [AWESOME COMPANIES](https://github.com/chrieke/awesome-geospatial-companies), [AWESOME Companies Mobility](https://github.com/arwagiz/AI-Sustainable-Mobility)
     - Technical: [AWESOME Trajectory Projections (Auto)](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) 
-- Tutorials/ Courses <a href="#"></a>
+- Tutorials/ Courses
   - Medium Tutorials: [AI4SM](https://medium.com/ai4sm), [GeoAI](https://medium.com/geoai), [North American Geoscientists Organization](https://medium.com/@northamericangeoscientistsorg)
   - Books: [Geographic Data Science](https://geographicdata.science/book/intro.html), [Sustainability GIS](https://sustainability-gis.readthedocs.io/en/latest/index.html)
 - Initiatives: [OpenStreetMap](https://www.openstreetmap.org/#map=12/41.3146/19.7778&layers=T), [OSGeo](https://www.osgeo.org/), [Disaster Mobility Data Network](https://www.crisisready.io/work/disaster-mobility-data-network/), <s> [UN OpenGIS](http://unopengis.org/unopengis/pages/page01.php) </s>
 - Model list: [Kaggle Transport](https://www.kaggle.com/search?q=Transport)
 - Dataset List: [Transit Land](https://www.transit.land/), [TUMI Data](https://tumidata.org/), [HuggingFace](https://huggingface.co/datasets?search=Transport), [AWESOME Public Datasets](https://github.com/awesomedata/awesome-public-datasets#transportation), [Road Detections](https://github.com/microsoft/RoadDetections)
 - Academic Research
-  - Journals: [GeoAI MDPI](https://www.mdpi.com/journal/applsci/special_issues/GIS_Artificial_Intelligence_Machine_Learning_Deep_Learning), [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979), [Journal of Advanced Transportation](https://www.hindawi.com/journals/jat/), [Public Transport](https://link.springer.com/journal/12469/volumes-and-issues)
+  - Journals:
+    - [GeoAI MDPI](https://www.mdpi.com/journal/applsci/special_issues/GIS_Artificial_Intelligence_Machine_Learning_Deep_Learning), [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
+    - [Journal of Advanced Transportation](https://www.hindawi.com/journals/jat/), [Public Transport](https://link.springer.com/journal/12469/volumes-and-issues)
   - Groups: [TransitLab MIT](https://www.transitlab.mit.edu/), [Mobility MIT](https://mobility.mit.edu/), [MLSM DTU](https://mlsm.man.dtu.dk/)
   - Articles: [Deep Learning Papers Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap), [Railway and AI](https://eprints.whiterose.ac.uk/185584/7/1-s2.0-S0968090X22001206-main.pdf) 
 
@@ -153,11 +157,15 @@ Modes of Transport
 ### By Type
 
 - Object Detection: [OD Satellites](https://github.com/satellite-image-deep-learning/techniques#4-object-detection), 
-- Pattern Detection: [Road Network Classification](https://github.com/ualsg/Road-Network-Classification), [Satellite Crosswalk Classification](https://github.com/rodrigoberriel/satellite-crosswalk-classification), [Segmentation Roads](https://github.com/satellite-image-deep-learning/techniques#28-segmentation---roads), 
+- Pattern Detection:
+  - [Road Network Classification](https://github.com/ualsg/Road-Network-Classification), [Satellite Crosswalk Classification](https://github.com/rodrigoberriel/satellite-crosswalk-classification)
+  - [Segmentation Roads](https://github.com/satellite-image-deep-learning/techniques#28-segmentation---roads) 
 - Reinforcement Learning: [AWESOME RL](https://github.com/jiachenli94/Awesome-Decision-Making-Reinforcement-Learning)
 - Regression: [Geospatial Regression](https://geographicdata.science/book/notebooks/11_regression.html), [Geospatial](https://www.unsiap.or.jp/e-learning/el_material/5_Agri/1507_Literacy_KOR/M3_4_Country_Presentation_Korea.pdf)
 - Clustering: [Geospatial Clustering](https://geographicdata.science/book/notebooks/10_clustering_and_regionalization.html)
-- Temporal Analysis: [Traffic prediction](https://www.kaggle.com/code/amitkarmakar41/traffic-prediction-with-fb-prophet-at-minute-level), [AWESOME Time Series](https://github.com/cuge1995/awesome-time-series), [Urban Computing Papers](https://github.com/Knowledge-Precipitation-Tribe/Spatio-Temporal-papers/tree/master), [LibCity](https://github.com/LibCity), [Change Dataset](https://github.com/wenhwu/awesome-remote-sensing-change-detection#dateset)
+- Temporal Analysis:
+  - [Traffic prediction](https://www.kaggle.com/code/amitkarmakar41/traffic-prediction-with-fb-prophet-at-minute-level), [AWESOME Time Series](https://github.com/cuge1995/awesome-time-series)
+  - [Urban Computing Papers](https://github.com/Knowledge-Precipitation-Tribe/Spatio-Temporal-papers/tree/master), [LibCity](https://github.com/LibCity), [Change Dataset](https://github.com/wenhwu/awesome-remote-sensing-change-detection#dateset)
 - Natural Language: [NLP tools](https://opensource.com/article/19/3/natural-language-processing-tools)
 - Generative: [Generative Networks for Satellite](https://github.com/satellite-image-deep-learning/techniques#18-generative-networks)
 - LLMs: [LLM Geo](https://github.com/gladcolor/LLM-Geo)
