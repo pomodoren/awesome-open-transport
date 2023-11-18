@@ -2,7 +2,7 @@
 
 Awesome resources for Open-Source Software for Transport.
 
-# Getting started with Open-Source Tools for Transport
+# Open-Source for Transport
 
 ![Transport](docs/open-transport.png)
 
@@ -84,7 +84,7 @@ Simulations
 
 <hr><br>
 
-# Getting started with AI for Transport
+# Open-Source AI for Transport
 
 
 ![Open-Transport-AI](docs/open-transport-ai.png)
@@ -104,10 +104,16 @@ Simulations
 ### By Topic
 
 
-- Public Infrastructure: [Road Graph Extraction](https://github.com/songtaohe/Sat2Graph), [Crack Instance Segmentation](https://huggingface.co/datasets/fcakyon/crack-instance-segmentation), [Pothole Segmentation](https://huggingface.co/datasets/keremberke/pothole-segmentation), [Road segmentation](https://medium.com/@nithishmailme/satellite-imagery-road-segmentation-ad2964dc3812)
+- Public Infrastructure:
+  - [Road Graph Extraction](https://github.com/songtaohe/Sat2Graph), [Crack Instance Segmentation](https://huggingface.co/datasets/fcakyon/crack-instance-segmentation)
+  - [Pothole Segmentation](https://huggingface.co/datasets/keremberke/pothole-segmentation), [Road segmentation](https://medium.com/@nithishmailme/satellite-imagery-road-segmentation-ad2964dc3812)
 - Predictive Maintenance
-- Disaster Risk Management: [Crisis Ready](https://www.crisisready.io/publications/), [Flood susceptibility](https://github.com/omarseleem92/Machine_learning_for_flood_susceptibility), [Disaster response](https://github.com/satellite-image-deep-learning/techniques#13-disaster-response), [Human Mobility](https://dl.acm.org/doi/abs/10.1145/2970819)
-- Traffic: [Traffic prediction](https://www.kaggle.com/code/amitkarmakar41/traffic-prediction-with-fb-prophet-at-minute-level), [LibCity Traffic Data Processing tool](https://github.com/LibCity/Bigscity-LibCity-Datasets), [Open Traffic Collection](https://github.com/graphhopper/open-traffic-collection), [Traffic prediction](https://github.com/aptx1231/Traffic-Prediction-Open-Code-Summary), [Open Datasets, Traffic](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction#vehicles-publicly-available-datasets)
+- Disaster Risk Management:
+  - [Crisis Ready](https://www.crisisready.io/publications/), [Flood susceptibility](https://github.com/omarseleem92/Machine_learning_for_flood_susceptibility)
+  - [Disaster response](https://github.com/satellite-image-deep-learning/techniques#13-disaster-response), [Human Mobility](https://dl.acm.org/doi/abs/10.1145/2970819)
+- Traffic:
+  - [Traffic prediction (tutorial)](https://www.kaggle.com/code/amitkarmakar41/traffic-prediction-with-fb-prophet-at-minute-level), [LibCity Traffic Data Processing tool](https://github.com/LibCity/Bigscity-LibCity-Datasets), [Open Traffic Collection](https://github.com/graphhopper/open-traffic-collection)
+  - [Traffic prediction code summary](https://github.com/aptx1231/Traffic-Prediction-Open-Code-Summary), [Open Datasets - Traffic Datasets](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction#vehicles-publicly-available-datasets)
 - Logistics: [Supply Chain tools](https://github.com/Funkmyster/awesome-supply-chain), [Fleetbase](https://github.com/fleetbase/fleetbase)
 - Autonomous: [Apollo Scape](https://github.com/ApolloScapeAuto/dataset-api)
 - Planning
@@ -118,7 +124,7 @@ Modes of Transport
 - Walking
 - Cycling
 - Micromobility
-- Rail:
+- Rail
 
 ## DO IT YOURSELF
 
