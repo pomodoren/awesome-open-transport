@@ -29,7 +29,7 @@ Awesome resources for Open-Source Software for Transport.
 
 ### 1. Open Data Standards
 
-Open Data Standards are like a common language for different types of transportation, making everything work together smoothly. Think of them as rules that everyone follows to share information easily. For example, there's Netex, GTFS, and GTFS-RT for public transport, MDS and GBFS for vehicle sharing, GMNS for network specifications, Transmodel for concepts, and others like Ontorail and TAP-TSI for rail. These standards help different systems understand each other, allowing for things like real-time updates and better planning. When everyone uses the same standards, it's like having a universal translator for transportation data. This not only makes travel more convenient for us but also opens the door for new and smarter ways to manage transportation, making it better for the environment and for everyone using it.
+Open Data Standards are like a common language for different types of transportation, making everything work together smoothly. Think of them as rules that everyone follows to share information easily. These standards help different systems understand each other, allowing for things like real-time updates and better planning.
 
 - Public Transport: [Netex](https://netex-cen.eu/), [GTFS](https://gtfs.org/), [GTFS-RT](https://gtfs.org/realtime/reference/)
 - Vehicle sharing: [MDS](https://github.com/openmobilityfoundation/mobility-data-specification), [GBFS](https://github.com/MobilityData/gbfs)
@@ -40,8 +40,7 @@ Open Data Standards are like a common language for different types of transporta
 
 ### 2. OpenStreetMap Ecosystem
 
-The OpenStreetMap ecosystem is a global collaboration where volunteers contribute to create free and open maps for various purposes. The main map, OpenStreetMap (OSM), serves as a digital atlas, while variations like Kartaview and OpenHumanitarianMap cater to specific needs such as humanitarian efforts. For transportation, there are specialized maps like OpenRailwayMaps and OpenSeaMap detailing railway and sea routes. Historical mapping, through OpenHistoryMap and OpenHistoricalMap, showcases the evolution of places over time. Tools like iD and JOSM enable map creation and editing, and Overpass Turbo aids in querying specific data. Mobile apps like OSMAnd, OrganicMaps, and JungleBus make these maps accessible on the go. The initiative HOT-OSM focuses on mapping disaster-affected areas for humanitarian aid. This collaborative effort makes OpenStreetMap an invaluable resource for transportation, offering detailed, up-to-date information that facilitates route planning, navigation, and community engagement while promoting accessibility and inclusivity.
-
+The OpenStreetMap ecosystem is a global collaboration where volunteers contribute to create free and open maps for various purposes. Tools like iD and JOSM enable map creation and editing, and Overpass Turbo aids in querying specific data. Mobile apps like OSMAnd, OrganicMaps, and JungleBus make these maps accessible on the go. This collaborative effort makes OpenStreetMap an invaluable resource for transportation, offering detailed, up-to-date information that facilitates route planning, navigation, and community engagement while promoting accessibility and inclusivity.
 
 
 - Maps:
@@ -58,7 +57,7 @@ The OpenStreetMap ecosystem is a global collaboration where volunteers contribut
 
 ### 3. OSGeo Ecosystem
 
-The OSGeo Ecosystem is like a toolbox for making maps and understanding transportation. It has servers (Geoserver, Mapserver, GeoNode) that handle data, visuals (OpenLayers, Cesium) that make maps look good, and applications (QGIS, GRASS GIS, GDAL) that help analyze information. The database part (PostGIS, pgRouting, spatialite) keeps everything organized. It's like having all the tools you need to figure out and improve how we move around, making it super useful for anyone working with maps and transportation.
+The OSGeo Ecosystem is like a toolbox for making maps and understanding transportation. It's like having all the tools you need to figure out and improve how we move around, making it super useful for anyone working with maps and transportation.
 
 - Server related: [Geoserver](https://geoserver.org/), [Mapserver](https://mapserver.org/), [GeoNode](https://geonode.org/)
 - Visuals: [OpenLayers](https://openlayers.org/), [Cesium](https://cesium.com/)
@@ -68,12 +67,12 @@ The OSGeo Ecosystem is like a toolbox for making maps and understanding transpor
 
 ### 4. Mapping Transport Infrastructure
 
-Mapping transport infrastructure using open-source tools provides professionals with a suite of digital resources. Simulation tools like abstreet, streetmix, matsim, abstr, and osm2streets facilitate the planning and visualization of street layouts. For demand estimation, grid2demand is a valuable tool. In the realm of cycling, CyIPT and BikeDNA focus on mapping cycling routes. Monitoring infrastructure status is made possible through tools such as StreetComplete, SmartRoadSense, tsmv, and Mapswipe. For railroads, CloudCompare and railroad tools assist in mapping and analyzing railway networks. These open-source tools serve as effective digital aids, empowering professionals to efficiently explore and enhance transportation systems across various modes.
+Mapping transport infrastructure using open-source tools provides professionals with a suite of digital resources. These open-source tools serve as effective digital aids, empowering professionals to efficiently explore and enhance transportation systems across various modes.
 
+- Infrastructure status: [StreetComplete](https://streetcomplete.app/?lang=en), [SmartRoadSense](https://smartroadsense.it/), <s>[tsmv]()</s>, [Mapswipe](https://mapswipe.org/en/)
 - Simulation: [abstreet](https://github.com/a-b-street/abstreet), [streetmix](https://github.com/streetmix/streetmix), [matsim](https://www.matsim.org/), [abstr](https://github.com/a-b-street/abstr), [osm2streets](https://github.com/a-b-street/osm2streets)
 - Estimations: [grid2demand](https://github.com/asu-trans-ai-lab/grid2demand)
 - Cycling: [CyIPT](https://www.cyipt.bike/), [BikeDNA](https://github.com/anerv/BikeDNA)
-- Infrastructure status: [StreetComplete](https://streetcomplete.app/?lang=en), [SmartRoadSense](https://smartroadsense.it/), <s>[tsmv]()</s>, [Mapswipe](https://mapswipe.org/en/)
 - Rail: [CloudCompare](https://github.com/cloudcompare/cloudcompare), [railroad](https://github.com/GISLab-ELTE/railroad)
 - AI Solutions:
   - [Road Graph Extraction](https://github.com/songtaohe/Sat2Graph)
@@ -88,7 +87,7 @@ Mapping transport infrastructure using open-source tools provides professionals 
   
 ### 5. Routing
 
-Routing is a pivotal aspect of transport planning, and open-source tools play a crucial role in facilitating efficient navigation across diverse transportation modes. Various routing engines, such as OSRM, ORS, Valhalla, Graphhopper, Routino, and per pedes routing, offer solutions for route optimization, considering factors like distance, time, and specific user preferences. For multimodal routing—where different transportation modes are combined—tools like OTP, Navitia, MOTIS, and digitransit provide comprehensive solutions, allowing users to seamlessly plan routes that may involve walking, cycling, or public transit. In the rail domain, OpenRailRouting and osrd specialize in routing solutions tailored to the unique characteristics of rail networks. These open-source tools not only contribute to the efficiency of transport planning but also empower users with the flexibility to choose the most suitable and convenient routes for their journeys.
+Routing is a pivotal aspect of transport planning, and open-source tools play a crucial role in facilitating efficient navigation across diverse transportation modes. These open-source tools not only contribute to the efficiency of transport planning but also empower users with the flexibility to choose the most suitable and convenient routes for their journeys.
 
 - Routing Engines: [OSRM](https://project-osrm.org/), [ORS](https://openrouteservice.org/), [Valhalla](https://github.com/valhalla/valhalla), [Graphhopper](https://github.com/graphhopper/graphhopper), [Routino](https://github.com/mauricesvay/Routino), [per pedes routing](https://github.com/motis-project/ppr)
 - Multimodal routing: [OTP](https://www.opentripplanner.org/), [Navitia](https://github.com/hove-io/navitia), [MOTIS](https://github.com/motis-project/motis), [digitransit](https://github.com/HSLdevcom/digitransit)
@@ -96,8 +95,7 @@ Routing is a pivotal aspect of transport planning, and open-source tools play a 
 
 ### 6. Transport Analytics
 
-Leveraging open-source tools for transport analytics offers several advantages. Firstly, these tools provide a cost-effective solution, eliminating the need for expensive proprietary software. The open-source community continually updates and enhances these tools, ensuring access to the latest features and improvements. Collaboration is facilitated as users worldwide contribute to the development of these tools, fostering a diverse and innovative environment. Open-source tools also promote transparency and customization, allowing users to adapt the software to their specific needs. The flexibility and openness of these tools encourage knowledge sharing, collaboration, and the rapid evolution of analytical capabilities, making them invaluable resources for professionals engaged in transport analysis.
-
+Choosing open-source tools for transport analytics is a smart move for several reasons. These tools, like geopy, photon, geopandas, and osmnx in Python, or R-spatial, lwgeom, stars, and sfnetworks in R, provide powerful capabilities for understanding and analyzing geographic and transportation data. They're free to use, which is great for saving costs. The best part is that you can look at and even change the code if you want to customize things. This open-source approach makes transport analytics more accessible and flexible for everyone.
 
 - Python analytics: [geopy](https://geopy.readthedocs.io/en/stable/), [photon](https://github.com/komoot/photon), [geopandas](https://github.com/geopandas/geopandas), [osmnx](https://github.com/gboeing/osmnx), [geoviews](https://geoviews.org/)
 - R analytics: [R-spatial](https://github.com/r-spatial), [lwgeom](https://r-spatial.github.io/lwgeom/), [stars](https://github.com/r-spatial/stars), [sfnetworks](https://luukvdmeer.github.io/sfnetworks/)
@@ -147,7 +145,7 @@ In the realm of open transport, a spectrum of tools addresses diverse fields bey
 
 ## Getting Started - Resources
 
-A plethora of online resources is available for those delving into geospatial analysis and transportation-related fields. Initiatives like OpenStreetMap and OSGeo contribute to the open-source geospatial community. Kaggle Transport and datasets like Transit Land, TUMI Data, and those on HuggingFace and AWESOME Public Datasets offer diverse datasets for modeling and analysis. Academic research is accessible through journals like GeoAI MDPI and IEEE Transactions on Intelligent Transportation Systems, while groups like TransitLab MIT and Mobility MIT foster collaborative research environments. 
+A plethora of online resources is available for those delving into geospatial analysis and transportation-related fields. Initiatives like OpenStreetMap and OSGeo contribute to the open-source geospatial community. Academic research is accessible through journals like GeoAI MDPI and IEEE Transactions on Intelligent Transportation Systems, while groups like TransitLab MIT and Mobility MIT foster collaborative research environments. 
 
 - Basic Geospatial Analysis:
   - [Geospatial Regression](https://geographicdata.science/book/notebooks/11_regression.html)
