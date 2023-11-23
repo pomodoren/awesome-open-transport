@@ -22,12 +22,6 @@ Awesome resources for Open-Source Software for (mainly public) Transport.
 ### 1. Open Data Standards
 Open Data Standards are like a common language for different types of transportation, making everything work together smoothly. Think of them as rules that everyone follows to share information easily. These standards help different systems understand each other, allowing for things like real-time updates and better planning.
 
-<p align="center">
-  <img src="docs/imgs/transitland.png" width="500" style="border: 1px solid gray">
-  <br>
-  <b>Transitland, a collection of GTFS for public transport.</b>
-</p>
-
 
 - Standards:
   - Public Transport: [Netex](https://netex-cen.eu/), [GTFS](https://gtfs.org/), [GTFS-RT](https://gtfs.org/realtime/reference/)
@@ -39,17 +33,20 @@ Open Data Standards are like a common language for different types of transporta
   - Collections for all: [Transitland](https://www.transit.land/)
   - Open Data portals: <b>TODO</b>
 
+
+<br>
+<p align="center">
+  <img src="docs/imgs/transitland.png" width="500" style="border: 1px solid gray">
+  <br>
+  <b>Transitland, a collection of GTFS for public transport.</b>
+</p>
+
+
 <br><br>
 
 
 ### 2. OpenStreetMap Ecosystem
 The OpenStreetMap ecosystem is a global collaboration where volunteers contribute to create free and open maps for various purposes. Tools like iD and JOSM enable map creation and editing, and Overpass Turbo aids in querying specific data. Mobile apps like OSMAnd, OrganicMaps, and JungleBus make these maps accessible on the go. This collaborative effort makes OpenStreetMap an invaluable resource for transportation, offering detailed, up-to-date information that facilitates route planning, navigation, and community engagement while promoting accessibility and inclusivity.
-
-<p align="center">
-  <img src="docs/imgs/openstreetmap.png" width="500" style="border: 1px solid gray">
-  <br>
-  <b>OpenStreetMap, the collaboration platform for mapping.</b>
-</p>
 
 
 
@@ -64,16 +61,18 @@ The OpenStreetMap ecosystem is a global collaboration where volunteers contribut
   - Querying: [Overpass Turbo](https://overpass-turbo.eu/)
   - Apps: [OSMAnd](https://osmand.net/), [OrganicMaps](https://organicmaps.app/), [JungleBus](https://wiki.openstreetmap.org/wiki/Jungle_Bus_mobile_app)
 
+
+<br>
+<p align="center">
+  <img src="docs/imgs/openstreetmap.png" width="500" style="border: 1px solid gray">
+  <br>
+  <b>OpenStreetMap, the collaboration platform for mapping.</b>
+</p>
+
 <br><br>
 
 ### 3. OSGeo Ecosystem
 The OSGeo Ecosystem is like a toolbox for making maps and understanding transportation. It's like having all the tools you need to figure out and improve how we move around, making it super useful for anyone working with maps and transportation.
-
-<p align="center">
-  <img src="docs/imgs/osgeo.png" width="500" style="border: 1px solid gray;">
-  <br>
-  <b>OSGeo, find your tools here.</b>
-</p>
 
 
 - Tools:
@@ -81,6 +80,14 @@ The OSGeo Ecosystem is like a toolbox for making maps and understanding transpor
   - Visuals: [OpenLayers](https://openlayers.org/), [Cesium](https://cesium.com/)
   - Applications: [QGIS](https://qgis.org/en/site/), [GRASS GIS](https://grass.osgeo.org/), [GDAL](https://gdal.org/index.html)
   - Database related: [PostGIS](https://postgis.net/), [pgRouting](https://pgrouting.org/), [spatialite](https://www.gaia-gis.it/fossil/libspatialite/index)
+
+
+<br>
+<p align="center">
+  <img src="docs/imgs/osgeo.png" width="500" style="border: 1px solid gray;">
+  <br>
+  <b>OSGeo, find your tools here.</b>
+</p>
 
 
 <br><br>
@@ -107,12 +114,6 @@ The operational side of Transport requires consistency of the indicators measure
 ### 5. Transport Analytics
 Choosing open-source tools for transport analytics is a smart move for several reasons. The best part is that you can look at and even change the code if you want to customize things, for example changing some kind of indicator. This open-source approach makes transport analytics more accessible and flexible for everyone.
 
-<p align="center">
-  <img src="docs/imgs/Transition.png" width="500" style="border: 1px solid gray">
-  <br>
-  <b>Transition, a simulation tool for transport demand.</b>
-</p>
-
 
 - Tools:
   - Python analytics: [geopy](https://geopy.readthedocs.io/en/stable/), [photon](https://github.com/komoot/photon), [geopandas](https://github.com/geopandas/geopandas), [osmnx](https://github.com/gboeing/osmnx), [geoviews](https://geoviews.org/)
@@ -135,17 +136,20 @@ Choosing open-source tools for transport analytics is a smart move for several r
   - [LLM Geo](https://github.com/gladcolor/LLM-Geo)
 
 
+<br>
+<p align="center">
+  <img src="docs/imgs/Transition.png" width="500" style="border: 1px solid gray">
+  <br>
+  <b>Transition, a simulation tool for transport demand.</b>
+</p>
+
+
 <br><br>
 
 
 ### 6. Routing
 Routing is a pivotal aspect of transport planning, and open-source tools play a crucial role in facilitating efficient navigation across diverse transportation modes. These open-source tools not only contribute to the efficiency of transport planning but also empower users with the flexibility to choose the most suitable and convenient routes for their journeys.
 
-<p align="center">
-  <img src="docs/imgs/ORS.png" width="500" style="border: 1px solid gray">
-  <br>
-  <b>OpenRouteService, a routing engine that considers multiple modalities and exceptions.</b>
-</p>
 
 
 - Tools:
@@ -157,16 +161,17 @@ Routing is a pivotal aspect of transport planning, and open-source tools play a 
   - [OpenTraj Datasets](https://github.com/crowdbotp/OpenTraj#publicly-available-datasets)
 
 
+<br>
+<p align="center">
+  <img src="docs/imgs/ORS.png" width="500" style="border: 1px solid gray">
+  <br>
+  <b>OpenRouteService, a routing engine that considers multiple modalities and exceptions.</b>
+</p>
+
 <br><br>
 
 ### 7. Mapping Transport Infrastructure
 Mapping transport infrastructure using open-source tools provides professionals with a suite of digital resources. These open-source tools serve as effective digital aids, empowering professionals to efficiently explore and enhance transportation systems across various modes.
-
-<p align="center">
-  <img src="docs/imgs/streetcomplete.png" width="500" style="border: 1px solid black">
-  <br>
-  <b>StreetComplete, a tool for collecting data about public infrastructure.</b>
-</p>
 
 
 - Tools:
@@ -185,24 +190,31 @@ Mapping transport infrastructure using open-source tools provides professionals 
   - [Segmentation Roads](https://github.com/satellite-image-deep-learning/techniques#28-segmentation---roads) 
   - [Road Detections from Microsoft](https://github.com/microsoft/RoadDetections)
 
-  
+<br>
+<p align="center">
+  <img src="docs/imgs/streetcomplete.png" width="500" style="border: 1px solid black">
+  <br>
+  <b>StreetComplete, a tool for collecting data about public infrastructure.</b>
+</p>
+
+
 <br><br>
 
 ### 8. Other Tools 
 
 Various open-source apps contribute significantly to transport analytics, each offering unique features to enhance the understanding and optimization of transportation systems. For example, Kitenerary provides a comprehensive itinerary solution, aiding in the seamless organization and management of travel plans. Similarly, Trufi specializes in public transit information, facilitating the efficient planning of routes and schedules. 
 
-<p align="center">
-  <img src="docs/imgs/trufi-app.png" width="500" style="border: 1px solid black">
-  <br>
-  <b>Trufi App, an application for public transport.</b>
-</p>
-
 
 - Apps: [Kitenerary](https://github.com/KDE/kitinerary), [TrackIt](https://github.com/flespi-software/TrackIt), [Trufi](https://github.com/trufi-association), [MyOSMatic](https://print.get-map.org/), [TransitWand](https://github.com/conveyal/transit-wand)
 - Show timetable: [datatools-ui](https://github.com/ibi-group/datatools-ui), [hsl-map-*](https://github.com/HSLdevcom), [Tavla](https://github.com/entur/tavla), [timetable_kit](https://github.com/neroden/timetable_kit)
 - Platforms: [OpenBike](https://github.com/openbikesensor), [Arlas](https://github.com/gisaia)
 
+<br>
+<p align="center">
+  <img src="docs/imgs/trufi-app.png" width="500" style="border: 1px solid black">
+  <br>
+  <b>Trufi App, an application for public transport.</b>
+</p>
 
 
 <br><br>
