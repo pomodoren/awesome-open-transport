@@ -22,7 +22,7 @@ Awesome resources for Open-Source Software for (mainly public) Transport.
 ### 1. Open Data Standards
 
 <p align="center">
-  <img src="docs/imgs/transitland.png" width="700" style="border: 1px solid gray">
+  <img src="docs/imgs/transitland.png" width="500" style="border: 1px solid gray">
   <br>
   <b>Transitland, a collection of GTFS for public transport.</b>
 </p>
@@ -45,7 +45,7 @@ Open Data Standards are like a common language for different types of transporta
 ### 2. OpenStreetMap Ecosystem
 
 <p align="center">
-  <img src="docs/imgs/openstreetmap.png" width="700" style="border: 1px solid gray">
+  <img src="docs/imgs/openstreetmap.png" width="500" style="border: 1px solid gray">
   <br>
   <b>OpenStreetMap, the collaboration platform for mapping.</b>
 </p>
@@ -69,7 +69,7 @@ The OpenStreetMap ecosystem is a global collaboration where volunteers contribut
 ### 3. OSGeo Ecosystem
 
 <p align="center">
-  <img src="docs/imgs/osgeo.png" width="700" style="border: 1px solid gray;">
+  <img src="docs/imgs/osgeo.png" width="500" style="border: 1px solid gray;">
   <br>
   <b>OSGeo, find your tools here.</b>
 </p>
@@ -88,7 +88,7 @@ The OSGeo Ecosystem is like a toolbox for making maps and understanding transpor
 ### 4. Operational Analytics
 
 <p align="center">
-  <img src="docs/imgs/fleetbase.png" width="700" style="border: 1px solid gray">
+  <img src="docs/imgs/fleetbase.png" width="500" style="border: 1px solid gray">
   <br>
   <b>Fleetbase, solve the operational side of transport.</b>
 </p>
@@ -106,7 +106,7 @@ The operational side of Transport requires much thinking and work.
 ### 5. Transport Analytics
 
 <p align="center">
-  <img src="docs/imgs/Transition.png" width="700" style="border: 1px solid gray">
+  <img src="docs/imgs/Transition.png" width="500" style="border: 1px solid gray">
   <br>
   <b>Transition, a simulation tool for transport demand.</b>
 </p>
@@ -140,7 +140,7 @@ Choosing open-source tools for transport analytics is a smart move for several r
 ### 6. Routing
 
 <p align="center">
-  <img src="docs/imgs/ORS.png" width="700" style="border: 1px solid gray">
+  <img src="docs/imgs/ORS.png" width="500" style="border: 1px solid gray">
   <br>
   <b>OpenRouteService, a routing engine that considers multiple modalities and exceptions.</b>
 </p>
@@ -161,7 +161,7 @@ Routing is a pivotal aspect of transport planning, and open-source tools play a 
 ### 7. Mapping Transport Infrastructure
 
 <p align="center">
-  <img src="docs/imgs/streetcomplete.png" width="700" style="border: 1px solid black">
+  <img src="docs/imgs/streetcomplete.png" width="500" style="border: 1px solid black">
   <br>
   <b>StreetComplete, a tool for collecting data about public infrastructure.</b>
 </p>
@@ -191,7 +191,7 @@ Mapping transport infrastructure using open-source tools provides professionals 
 
 
 <p align="center">
-  <img src="docs/imgs/trufi-app.png" width="700" style="border: 1px solid black">
+  <img src="docs/imgs/trufi-app.png" width="500" style="border: 1px solid black">
   <br>
   <b>Trufi App, an application for public transport.</b>
 </p>
