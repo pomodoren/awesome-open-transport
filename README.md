@@ -22,7 +22,7 @@ Awesome resources for Open-Source Software for (mainly public) Transport.
 ### 1. Open Data Standards
 
 <p align="center">
-  <img src="docs/imgs/transitland.png" width="700" style="border: 1px solid grey">
+  <img src="docs/imgs/transitland.png" width="700" style="border: 1px solid gray">
   <br>
   <b>Transitland, a collection of GTFS for public transport.</b>
 </p>
@@ -39,10 +39,13 @@ Open Data Standards are like a common language for different types of transporta
   - Collections for all: [Transitland](https://www.transit.land/)
   - Open Data portals: <b>TODO</b>
 
+<br><br>
+
+
 ### 2. OpenStreetMap Ecosystem
 
 <p align="center">
-  <img src="docs/imgs/openstreetmap.png" width="700" style="border: 1px solid grey">
+  <img src="docs/imgs/openstreetmap.png" width="700" style="border: 1px solid gray">
   <br>
   <b>OpenStreetMap, the collaboration platform for mapping.</b>
 </p>
@@ -61,11 +64,12 @@ The OpenStreetMap ecosystem is a global collaboration where volunteers contribut
   - Querying: [Overpass Turbo](https://overpass-turbo.eu/)
   - Apps: [OSMAnd](https://osmand.net/), [OrganicMaps](https://organicmaps.app/), [JungleBus](https://wiki.openstreetmap.org/wiki/Jungle_Bus_mobile_app)
 
+<br><br>
 
 ### 3. OSGeo Ecosystem
 
 <p align="center">
-  <img src="docs/imgs/osgeo.png" width="700" style="border: 1px solid grey">
+  <img src="docs/imgs/osgeo.png" width="700" style="border: 1px solid gray;">
   <br>
   <b>OSGeo, find your tools here.</b>
 </p>
@@ -79,11 +83,12 @@ The OSGeo Ecosystem is like a toolbox for making maps and understanding transpor
   - Database related: [PostGIS](https://postgis.net/), [pgRouting](https://pgrouting.org/), [spatialite](https://www.gaia-gis.it/fossil/libspatialite/index)
 
 
+<br><br>
 
 ### 4. Operational Analytics
 
 <p align="center">
-  <img src="docs/imgs/fleetbase.png" width="700" style="border: 1px solid grey">
+  <img src="docs/imgs/fleetbase.png" width="700" style="border: 1px solid gray">
   <br>
   <b>Fleetbase, solve the operational side of transport.</b>
 </p>
@@ -96,11 +101,12 @@ The operational side of Transport requires much thinking and work.
   - [FleetBase](https://github.com/fleetbase/fleetbase)
   - <s>[Evidenca]()</s> <b>TODO</b>
 
+<br><br>
 
 ### 5. Transport Analytics
 
 <p align="center">
-  <img src="docs/imgs/Transition.png" width="700" style="border: 1px solid grey">
+  <img src="docs/imgs/Transition.png" width="700" style="border: 1px solid gray">
   <br>
   <b>Transition, a simulation tool for transport demand.</b>
 </p>
@@ -128,12 +134,13 @@ Choosing open-source tools for transport analytics is a smart move for several r
   - [LLM Geo](https://github.com/gladcolor/LLM-Geo)
 
 
+<br><br>
 
 
 ### 6. Routing
 
 <p align="center">
-  <img src="docs/imgs/ORS.png" width="700" style="border: 1px solid grey">
+  <img src="docs/imgs/ORS.png" width="700" style="border: 1px solid gray">
   <br>
   <b>OpenRouteService, a routing engine that considers multiple modalities and exceptions.</b>
 </p>
@@ -147,6 +154,9 @@ Routing is a pivotal aspect of transport planning, and open-source tools play a 
 - Solutions:
   - Isochrones: <b>TODO</b>
   - [OpenTraj Datasets](https://github.com/crowdbotp/OpenTraj#publicly-available-datasets)
+
+
+<br><br>
 
 ### 7. Mapping Transport Infrastructure
 
@@ -175,6 +185,7 @@ Mapping transport infrastructure using open-source tools provides professionals 
   - [Road Detections from Microsoft](https://github.com/microsoft/RoadDetections)
 
   
+<br><br>
 
 ### 8. Other Tools 
 
@@ -192,6 +203,8 @@ Various open-source apps contribute significantly to transport analytics, each o
 - Platforms: [OpenBike](https://github.com/openbikesensor), [Arlas](https://github.com/gisaia)
 
 
+
+<br><br>
 
 ## Getting Started - Resources
 
@@ -236,6 +249,7 @@ A plethora of online resources is available for those delving into geospatial an
   - [Urban Computing Papers](https://github.com/Knowledge-Precipitation-Tribe/Spatio-Temporal-papers/tree/master)
 
 
+<br><br>
 
 ## Getting Started - IT Infrastructure
 
@@ -254,6 +268,7 @@ These tools encompass various aspects such as version control, collaborative dev
   - Deployment: [MLFlow](https://mlflow.org/)
   - Resources consumptions
 
+<br><br>
 
 ## Applications in other fields
 
@@ -267,6 +282,9 @@ In the realm of open transport, a spectrum of tools addresses diverse fields bey
   - [Human Mobility](https://dl.acm.org/doi/abs/10.1145/2970819)
 - Autonomous:
   - [Apollo Scape](https://github.com/ApolloScapeAuto/dataset-api)
+
+
+<br><br>
 
 ## AWESOME Resources List
 
