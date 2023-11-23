@@ -20,6 +20,7 @@ Awesome resources for Open-Source Software for (mainly public) Transport.
 <hr>
 
 ### 1. Open Data Standards
+Open Data Standards are like a common language for different types of transportation, making everything work together smoothly. Think of them as rules that everyone follows to share information easily. These standards help different systems understand each other, allowing for things like real-time updates and better planning.
 
 <p align="center">
   <img src="docs/imgs/transitland.png" width="500" style="border: 1px solid gray">
@@ -27,7 +28,6 @@ Awesome resources for Open-Source Software for (mainly public) Transport.
   <b>Transitland, a collection of GTFS for public transport.</b>
 </p>
 
-Open Data Standards are like a common language for different types of transportation, making everything work together smoothly. Think of them as rules that everyone follows to share information easily. These standards help different systems understand each other, allowing for things like real-time updates and better planning.
 
 - Standards:
   - Public Transport: [Netex](https://netex-cen.eu/), [GTFS](https://gtfs.org/), [GTFS-RT](https://gtfs.org/realtime/reference/)
@@ -43,6 +43,7 @@ Open Data Standards are like a common language for different types of transporta
 
 
 ### 2. OpenStreetMap Ecosystem
+The OpenStreetMap ecosystem is a global collaboration where volunteers contribute to create free and open maps for various purposes. Tools like iD and JOSM enable map creation and editing, and Overpass Turbo aids in querying specific data. Mobile apps like OSMAnd, OrganicMaps, and JungleBus make these maps accessible on the go. This collaborative effort makes OpenStreetMap an invaluable resource for transportation, offering detailed, up-to-date information that facilitates route planning, navigation, and community engagement while promoting accessibility and inclusivity.
 
 <p align="center">
   <img src="docs/imgs/openstreetmap.png" width="500" style="border: 1px solid gray">
@@ -50,7 +51,6 @@ Open Data Standards are like a common language for different types of transporta
   <b>OpenStreetMap, the collaboration platform for mapping.</b>
 </p>
 
-The OpenStreetMap ecosystem is a global collaboration where volunteers contribute to create free and open maps for various purposes. Tools like iD and JOSM enable map creation and editing, and Overpass Turbo aids in querying specific data. Mobile apps like OSMAnd, OrganicMaps, and JungleBus make these maps accessible on the go. This collaborative effort makes OpenStreetMap an invaluable resource for transportation, offering detailed, up-to-date information that facilitates route planning, navigation, and community engagement while promoting accessibility and inclusivity.
 
 
 - Maps:
@@ -67,6 +67,7 @@ The OpenStreetMap ecosystem is a global collaboration where volunteers contribut
 <br><br>
 
 ### 3. OSGeo Ecosystem
+The OSGeo Ecosystem is like a toolbox for making maps and understanding transportation. It's like having all the tools you need to figure out and improve how we move around, making it super useful for anyone working with maps and transportation.
 
 <p align="center">
   <img src="docs/imgs/osgeo.png" width="500" style="border: 1px solid gray;">
@@ -74,7 +75,6 @@ The OpenStreetMap ecosystem is a global collaboration where volunteers contribut
   <b>OSGeo, find your tools here.</b>
 </p>
 
-The OSGeo Ecosystem is like a toolbox for making maps and understanding transportation. It's like having all the tools you need to figure out and improve how we move around, making it super useful for anyone working with maps and transportation.
 
 - Tools:
   - Server related: [Geoserver](https://geoserver.org/), [Mapserver](https://mapserver.org/), [GeoNode](https://geonode.org/)
@@ -86,14 +86,15 @@ The OSGeo Ecosystem is like a toolbox for making maps and understanding transpor
 <br><br>
 
 ### 4. Operational Analytics
+The operational side of Transport requires consistency of the indicators measured, and the validation of much of the input. 
 
+<!--
 <p align="center">
   <img src="docs/imgs/fleetbase.png" width="500" style="border: 1px solid gray">
   <br>
   <b>Fleetbase, solve the operational side of transport.</b>
 </p>
-
-The operational side of Transport requires much thinking and work. 
+-->
 
 - Tools
   - Predictive Maintenance <b>TODO</b>
@@ -104,6 +105,7 @@ The operational side of Transport requires much thinking and work.
 <br><br>
 
 ### 5. Transport Analytics
+Choosing open-source tools for transport analytics is a smart move for several reasons. The best part is that you can look at and even change the code if you want to customize things, for example changing some kind of indicator. This open-source approach makes transport analytics more accessible and flexible for everyone.
 
 <p align="center">
   <img src="docs/imgs/Transition.png" width="500" style="border: 1px solid gray">
@@ -111,7 +113,6 @@ The operational side of Transport requires much thinking and work.
   <b>Transition, a simulation tool for transport demand.</b>
 </p>
 
-Choosing open-source tools for transport analytics is a smart move for several reasons. The best part is that you can look at and even change the code if you want to customize things, for example changing some kind of indicator. This open-source approach makes transport analytics more accessible and flexible for everyone.
 
 - Tools:
   - Python analytics: [geopy](https://geopy.readthedocs.io/en/stable/), [photon](https://github.com/komoot/photon), [geopandas](https://github.com/geopandas/geopandas), [osmnx](https://github.com/gboeing/osmnx), [geoviews](https://geoviews.org/)
@@ -138,6 +139,7 @@ Choosing open-source tools for transport analytics is a smart move for several r
 
 
 ### 6. Routing
+Routing is a pivotal aspect of transport planning, and open-source tools play a crucial role in facilitating efficient navigation across diverse transportation modes. These open-source tools not only contribute to the efficiency of transport planning but also empower users with the flexibility to choose the most suitable and convenient routes for their journeys.
 
 <p align="center">
   <img src="docs/imgs/ORS.png" width="500" style="border: 1px solid gray">
@@ -145,7 +147,6 @@ Choosing open-source tools for transport analytics is a smart move for several r
   <b>OpenRouteService, a routing engine that considers multiple modalities and exceptions.</b>
 </p>
 
-Routing is a pivotal aspect of transport planning, and open-source tools play a crucial role in facilitating efficient navigation across diverse transportation modes. These open-source tools not only contribute to the efficiency of transport planning but also empower users with the flexibility to choose the most suitable and convenient routes for their journeys.
 
 - Tools:
   - Routing Engines: [OSRM](https://project-osrm.org/), [ORS](https://openrouteservice.org/), [Valhalla](https://github.com/valhalla/valhalla), [Graphhopper](https://github.com/graphhopper/graphhopper), [Routino](https://github.com/mauricesvay/Routino), [per pedes routing](https://github.com/motis-project/ppr)
@@ -159,6 +160,7 @@ Routing is a pivotal aspect of transport planning, and open-source tools play a 
 <br><br>
 
 ### 7. Mapping Transport Infrastructure
+Mapping transport infrastructure using open-source tools provides professionals with a suite of digital resources. These open-source tools serve as effective digital aids, empowering professionals to efficiently explore and enhance transportation systems across various modes.
 
 <p align="center">
   <img src="docs/imgs/streetcomplete.png" width="500" style="border: 1px solid black">
@@ -166,7 +168,6 @@ Routing is a pivotal aspect of transport planning, and open-source tools play a 
   <b>StreetComplete, a tool for collecting data about public infrastructure.</b>
 </p>
 
-Mapping transport infrastructure using open-source tools provides professionals with a suite of digital resources. These open-source tools serve as effective digital aids, empowering professionals to efficiently explore and enhance transportation systems across various modes.
 
 - Tools:
   - Infrastructure status: [StreetComplete](https://streetcomplete.app/?lang=en), [SmartRoadSense](https://smartroadsense.it/), <s>[tsmv]()</s>, [Mapswipe](https://mapswipe.org/en/)
@@ -189,6 +190,7 @@ Mapping transport infrastructure using open-source tools provides professionals 
 
 ### 8. Other Tools 
 
+Various open-source apps contribute significantly to transport analytics, each offering unique features to enhance the understanding and optimization of transportation systems. For example, Kitenerary provides a comprehensive itinerary solution, aiding in the seamless organization and management of travel plans. Similarly, Trufi specializes in public transit information, facilitating the efficient planning of routes and schedules. 
 
 <p align="center">
   <img src="docs/imgs/trufi-app.png" width="500" style="border: 1px solid black">
@@ -196,7 +198,6 @@ Mapping transport infrastructure using open-source tools provides professionals 
   <b>Trufi App, an application for public transport.</b>
 </p>
 
-Various open-source apps contribute significantly to transport analytics, each offering unique features to enhance the understanding and optimization of transportation systems. For example, Kitenerary provides a comprehensive itinerary solution, aiding in the seamless organization and management of travel plans. Similarly, Trufi specializes in public transit information, facilitating the efficient planning of routes and schedules. 
 
 - Apps: [Kitenerary](https://github.com/KDE/kitinerary), [TrackIt](https://github.com/flespi-software/TrackIt), [Trufi](https://github.com/trufi-association), [MyOSMatic](https://print.get-map.org/), [TransitWand](https://github.com/conveyal/transit-wand)
 - Show timetable: [datatools-ui](https://github.com/ibi-group/datatools-ui), [hsl-map-*](https://github.com/HSLdevcom), [Tavla](https://github.com/entur/tavla), [timetable_kit](https://github.com/neroden/timetable_kit)
