@@ -49,17 +49,14 @@ The OpenStreetMap ecosystem is a global collaboration where volunteers contribut
 
 
 - Maps:
-  - [OpenStreetMap](https://www.openstreetmap.org/)
-  - Variations: [Kartaview](https://kartaview.org/landing), [OpenHumanitarianMap]()
-  - Railway or Sea: [OpenRailwayMaps](https://www.openrailwaymap.org/), [OpenSeaMap](https://map.openseamap.org/)
+  - Main: [OpenStreetMap](https://www.openstreetmap.org/)
+  - Transport Modes:  [OpenHumanitarianMap](), [OpenRailwayMaps](https://www.openrailwaymap.org/), [OpenSeaMap](https://map.openseamap.org/)
   - Historical mapping: [OpenHistoryMap](https://map.openhistorymap.org/), [OpenHistoricalMap](https://www.openhistoricalmap.org/)
-  - Aerial: [OpenAerialMap](https://openaerialmap.org/)
+  - Imagery: [Kartaview](https://kartaview.org/landing), [OpenAerialMap](https://openaerialmap.org/)
 - Tools:
-  - [OSM List of Services (GREAT!!)](https://wiki.openstreetmap.org/wiki/List_of_OSM-based_services)
-  - Mapping: [iD](https://wiki.openstreetmap.org/wiki/ID), [JOSM](https://josm.openstreetmap.de/)
+  - List: [OSM List of Services (GREAT!!)](https://wiki.openstreetmap.org/wiki/List_of_OSM-based_services)
+  - Mapping: [iD](https://wiki.openstreetmap.org/wiki/ID), [JOSM](https://josm.openstreetmap.de/), ...
   - Querying: [Overpass Turbo](https://overpass-turbo.eu/)
-  - Apps: [OSMAnd](https://osmand.net/), [OrganicMaps](https://organicmaps.app/), [JungleBus](https://wiki.openstreetmap.org/wiki/Jungle_Bus_mobile_app)
-
 
 <br>
 <p align="center">
@@ -146,6 +143,7 @@ Various open-source apps contribute significantly to transport analytics, each o
 
 
 - Apps:
+  - OSM Apps: [OSMAnd](https://osmand.net/), [OrganicMaps](https://organicmaps.app/), [JungleBus](https://wiki.openstreetmap.org/wiki/Jungle_Bus_mobile_app)
   - Different: [Kitenerary](https://github.com/KDE/kitinerary), [TrackIt](https://github.com/flespi-software/TrackIt),[MyOSMatic](https://print.get-map.org/),
   - Public Transport: [Trufi](https://github.com/trufi-association),  [TransitWand](https://github.com/conveyal/transit-wand)
 - Display Info:
