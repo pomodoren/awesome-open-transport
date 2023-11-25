@@ -15,6 +15,7 @@ Awesome resources for Open-Source Software for (mainly public) Transport.
 - [Getting Started - IT Infrastructure](#getting-started---it-infrastructure)
 - [Applications in other fields](#applications-in-other-fields)
 - [AWESOME Resources List](#awesome-resources-list)
+- [Conferences](#conferences)
 
 <br>
 <hr>
@@ -328,3 +329,16 @@ In the realm of open transport, a spectrum of tools addresses diverse fields bey
   - [AWESOME Time Series](https://github.com/cuge1995/awesome-time-series)
 - Logistics
   - [Supply Chain tools](https://github.com/Funkmyster/awesome-supply-chain)
+
+
+<br><br>
+
+## Conferences
+
+- [SOTM](https://stateofthemap.org/) - conference on OpenStreetMap and related ecosystem
+  - [List of Events](https://wiki.openstreetmap.org/wiki/State_of_the_Map), present in Africa, Asia, EU, and more
+  - <b>TODO</b>
+- [FOSS4G](https://foss4g.org/) - conference on OSGeo and related ecosystem
+  - <b>TODO</b>
+- [FOSDEM](https://fosdem.org/)
+  - <b>TODO</b>
