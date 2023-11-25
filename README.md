@@ -9,7 +9,7 @@ Awesome resources for Open-Source Software for (mainly public) Transport.
   - [4. Operational Analytics](#4-operational-analytics)
   - [5. Transport Analytics](#5-transport-analytics)
   - [6. Routing](#6-routing)
-  - [7. Mapping Transport Infrastructure](#7-mapping-transport-infrastructure)
+  - [7. Mapping Public Infrastructure](#7-mapping-public-infrastructure)
   - [8. Other Tools](#8-other-tools)
 - [Getting Started - Resources](#getting-started---resources)
 - [Getting Started - IT Infrastructure](#getting-started---it-infrastructure)
@@ -38,7 +38,7 @@ Open Data Standards are like a common language for different types of transporta
 <p align="center">
   <img src="docs/imgs/transitland.png" width="500" style="border: 1px solid gray">
   <br>
-  <b>Transitland, a collection of GTFS for public transport.</b>
+  <b>Transitland, collections public transport data.</b>
 </p>
 
 
@@ -166,13 +166,13 @@ Routing is a pivotal aspect of transport planning, and open-source tools play a 
 <p align="center">
   <img src="docs/imgs/ORS.png" width="500" style="border: 1px solid gray">
   <br>
-  <b>OpenRouteService, a routing engine that considers multiple modalities and exceptions.</b>
+  <b>OpenRouteService, extensive routing functionalities.</b>
 </p>
 
 <br><br>
 
-### 7. Mapping Transport Infrastructure
-Mapping transport infrastructure using open-source tools provides professionals with a suite of digital resources. These open-source tools serve as effective digital aids, empowering professionals to efficiently explore and enhance transportation systems across various modes.
+### 7. Mapping Public Infrastructure
+Mapping public infrastructure using open-source tools provides professionals with a suite of digital resources. These open-source tools serve as effective digital aids, empowering professionals to efficiently explore and enhance transportation systems across various modes.
 
 
 - Tools:
@@ -195,7 +195,7 @@ Mapping transport infrastructure using open-source tools provides professionals 
 <p align="center">
   <img src="docs/imgs/streetcomplete.png" width="500" style="border: 1px solid black">
   <br>
-  <b>StreetComplete, a tool for collecting data about public infrastructure.</b>
+  <b>StreetComplete, collecting data using OSM.</b>
 </p>
 
 
