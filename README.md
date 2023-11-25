@@ -16,18 +16,19 @@ Awesome resources for Open-Source Software for (mainly public) Transport.
   - [AWESOME Resources List](#awesome-resources-list)
   - [Conferences](#conferences)
 
-<br>
+<br><br>
 <hr>
 
 ### 1. Open Data Standards
 Open Data Standards are like a common language for different types of transportation, making everything work together smoothly. Think of them as rules that everyone follows to share information easily. These standards help different systems understand each other, allowing for things like real-time updates and better planning.
 
 
-- Public Transport Standards: [Netex](https://netex-cen.eu/), [GTFS](https://gtfs.org/), [GTFS-RT](https://gtfs.org/realtime/reference/)
-- Vehicle sharing: [MDS](https://github.com/openmobilityfoundation/mobility-data-specification), [GBFS](https://github.com/MobilityData/gbfs)
-- Network specification: [GMNS](https://github.com/zephyr-data-specs/GMNS)
-- Conceptual: [Transmodel](https://github.com/oeg-upm/transmodel-ontology)
-- Rail: [Ontorail](https://ontorail.org/), [TAP-TSI](https://tap-tsi.uic.org/), <s>[S2R-CDM]()</s>, <s>[BITRE]()</s>
+- Standards:
+  - Public Transport Standards: [Netex](https://netex-cen.eu/), [GTFS](https://gtfs.org/), [GTFS-RT](https://gtfs.org/realtime/reference/)
+  - Vehicle sharing: [MDS](https://github.com/openmobilityfoundation/mobility-data-specification), [GBFS](https://github.com/MobilityData/gbfs)
+  - Network specification: [GMNS](https://github.com/zephyr-data-specs/GMNS)
+  - Conceptual: [Transmodel](https://github.com/oeg-upm/transmodel-ontology)
+  - Rail: [Ontorail](https://ontorail.org/), [TAP-TSI](https://tap-tsi.uic.org/), <s>[S2R-CDM]()</s>, <s>[BITRE]()</s>
 - Open Data portals: 
   - [Transitland](https://www.transit.land/) - collection of GTFS worldwide.
   - [Transport Gov FR](https://transport.data.gouv.fr/) - Transport in FR.
@@ -47,13 +48,13 @@ The OpenStreetMap ecosystem is a global collaboration where volunteers contribut
 
 
 
-- <b>Maps</B>:
+- Maps:
   - [OpenStreetMap](https://www.openstreetmap.org/)
   - Variations: [Kartaview](https://kartaview.org/landing), [OpenHumanitarianMap]()
   - Railway or Sea: [OpenRailwayMaps](https://www.openrailwaymap.org/), [OpenSeaMap](https://map.openseamap.org/)
   - Historical mapping: [OpenHistoryMap](https://map.openhistorymap.org/), [OpenHistoricalMap](https://www.openhistoricalmap.org/)
   - Aerial: [OpenAerialMap](https://openaerialmap.org/)
-- <b>Tools</b>:
+- Tools:
   - [OSM List of Services (GREAT!!)](https://wiki.openstreetmap.org/wiki/List_of_OSM-based_services)
   - Mapping: [iD](https://wiki.openstreetmap.org/wiki/ID), [JOSM](https://josm.openstreetmap.de/)
   - Querying: [Overpass Turbo](https://overpass-turbo.eu/)
@@ -72,11 +73,12 @@ The OpenStreetMap ecosystem is a global collaboration where volunteers contribut
 ### 3. OSGeo Ecosystem
 The OSGeo Ecosystem is like a toolbox for making maps and understanding transportation. It's like having all the tools you need to figure out and improve how we move around, making it super useful for anyone working with maps and transportation.
 
-
-- Server related: [Geoserver](https://geoserver.org/), [Mapserver](https://mapserver.org/), [GeoNode](https://geonode.org/)
-- Visuals: [OpenLayers](https://openlayers.org/), [Cesium](https://cesium.com/)
-- Applications: [QGIS](https://qgis.org/en/site/), [GRASS GIS](https://grass.osgeo.org/), [GDAL](https://gdal.org/index.html)
-- Database related: [PostGIS](https://postgis.net/), [pgRouting](https://pgrouting.org/), [spatialite](https://www.gaia-gis.it/fossil/libspatialite/index)
+- Tools:
+  - Server related: [Geoserver](https://geoserver.org/), [Mapserver](https://mapserver.org/), [GeoNode](https://geonode.org/)
+  - Visuals: [OpenLayers](https://openlayers.org/), [Cesium](https://cesium.com/)
+  - Applications: [QGIS](https://qgis.org/en/site/), [GRASS GIS](https://grass.osgeo.org/), [GDAL](https://gdal.org/index.html)
+  - Database related: [PostGIS](https://postgis.net/), [pgRouting](https://pgrouting.org/), [spatialite](https://www.gaia-gis.it/fossil/libspatialite/index)
+- All-in-one: [OSGeo Live](https://live.osgeo.org/en/index.html)
 
 
 <br>
@@ -92,11 +94,11 @@ The OSGeo Ecosystem is like a toolbox for making maps and understanding transpor
 ### 4. Movement Analytics
 Choosing open-source tools for movement analytics is a smart move for several reasons. The best part is that you can look at and even change the code if you want to customize things, for example changing some kind of indicator. This open-source approach makes analytics more accessible and flexible for everyone.
 
-
-- Python analytics: [geopy](https://geopy.readthedocs.io/en/stable/), [photon](https://github.com/komoot/photon), [geopandas](https://github.com/geopandas/geopandas), [osmnx](https://github.com/gboeing/osmnx), [geoviews](https://geoviews.org/)
-- R analytics: [R-spatial](https://github.com/r-spatial), [lwgeom](https://r-spatial.github.io/lwgeom/), [stars](https://github.com/r-spatial/stars), [sfnetworks](https://luukvdmeer.github.io/sfnetworks/)
-- Mobility analytics: [MobilityDB](https://github.com/MobilityDB/MobilityDB), [MoveTK](https://github.com/movetk/movetk), [MOVE](https://github.com/mschoema/move), [movingpandas](https://github.com/movingpandas/movingpandas), [scikit-mobility](https://github.com/scikit-mobility/scikit-mobility)
-- GTFS Analytics: [gtfs_manager](https://github.com/spstreets/gtfs_manager), [gtfspy](https://github.com/CxAalto/gtfspy), [gtfsdb](https://github.com/OpenTransitTools/gtfsdb), [gtfstools](https://github.com/ipeaGIT/gtfstools), [GTFS-GO](https://github.com/MIERUNE/GTFS-GO)
+- Libraries
+  - Python analytics: [geopy](https://geopy.readthedocs.io/en/stable/), [photon](https://github.com/komoot/photon), [geopandas](https://github.com/geopandas/geopandas), [osmnx](https://github.com/gboeing/osmnx), [geoviews](https://geoviews.org/)
+  - R analytics: [R-spatial](https://github.com/r-spatial), [lwgeom](https://r-spatial.github.io/lwgeom/), [stars](https://github.com/r-spatial/stars), [sfnetworks](https://luukvdmeer.github.io/sfnetworks/)
+  - Mobility analytics: [MobilityDB](https://github.com/MobilityDB/MobilityDB), [MoveTK](https://github.com/movetk/movetk), [MOVE](https://github.com/mschoema/move), [movingpandas](https://github.com/movingpandas/movingpandas), [scikit-mobility](https://github.com/scikit-mobility/scikit-mobility)
+  - GTFS Analytics: [gtfs_manager](https://github.com/spstreets/gtfs_manager), [gtfspy](https://github.com/CxAalto/gtfspy), [gtfsdb](https://github.com/OpenTransitTools/gtfsdb), [gtfstools](https://github.com/ipeaGIT/gtfstools), [GTFS-GO](https://github.com/MIERUNE/GTFS-GO)
 - Routing:
   - Engines: [OSRM](https://project-osrm.org/), [ORS](https://openrouteservice.org/), [Valhalla](https://github.com/valhalla/valhalla), [Graphhopper](https://github.com/graphhopper/graphhopper), [Routino](https://github.com/mauricesvay/Routino), [per pedes routing](https://github.com/motis-project/ppr)
   - Multimodal routing: [OTP](https://www.opentripplanner.org/), [Navitia](https://github.com/hove-io/navitia), [MOTIS](https://github.com/motis-project/motis), [digitransit](https://github.com/HSLdevcom/digitransit)
@@ -118,10 +120,10 @@ Choosing open-source tools for movement analytics is a smart move for several re
 ### 5. Public Infrastructure
 Mapping public infrastructure using open-source tools provides professionals with a suite of digital resources. These open-source tools serve as effective digital aids, empowering professionals to efficiently explore and enhance transportation systems across various modes.
 
-
-- Infrastructure status: [StreetComplete](https://streetcomplete.app/?lang=en), [SmartRoadSense](https://smartroadsense.it/), <s>[tsmv]()</s>, [Mapswipe](https://mapswipe.org/en/), [MapComplete](https://mapcomplete.org/)
-- Cycling: [CyIPT](https://www.cyipt.bike/), [BikeDNA](https://github.com/anerv/BikeDNA)
-- Rail: [CloudCompare](https://github.com/cloudcompare/cloudcompare), [railroad](https://github.com/GISLab-ELTE/railroad)
+- Tools:
+  - Infrastructure status: [StreetComplete](https://streetcomplete.app/?lang=en), [SmartRoadSense](https://smartroadsense.it/), <s>[tsmv]()</s>, [Mapswipe](https://mapswipe.org/en/), [MapComplete](https://mapcomplete.org/)
+  - Cycling: [CyIPT](https://www.cyipt.bike/), [BikeDNA](https://github.com/anerv/BikeDNA)
+  - Rail: [CloudCompare](https://github.com/cloudcompare/cloudcompare), [railroad](https://github.com/GISLab-ELTE/railroad)
 - Infrastructure change simlators:
   - Main: [streetmix](https://github.com/streetmix/streetmix), [matsim](https://www.matsim.org/)
   - OSM based: [abstreet](https://github.com/a-b-street/abstreet), [osm2streets](https://github.com/a-b-street/osm2streets), [abstr](https://github.com/a-b-street/abstr)
@@ -143,10 +145,18 @@ Mapping public infrastructure using open-source tools provides professionals wit
 Various open-source apps contribute significantly to transport analytics, each offering unique features to enhance the understanding and optimization of transportation systems. For example, Kitenerary provides a comprehensive itinerary solution, aiding in the seamless organization and management of travel plans. Similarly, Trufi specializes in public transit information, facilitating the efficient planning of routes and schedules. 
 
 
-- Apps: [Kitenerary](https://github.com/KDE/kitinerary), [TrackIt](https://github.com/flespi-software/TrackIt), [Trufi](https://github.com/trufi-association), [MyOSMatic](https://print.get-map.org/), [TransitWand](https://github.com/conveyal/transit-wand)
-- Show timetable: [datatools-ui](https://github.com/ibi-group/datatools-ui), [hsl-map-*](https://github.com/HSLdevcom), [Tavla](https://github.com/entur/tavla), [timetable_kit](https://github.com/neroden/timetable_kit)
-- Platforms: [OpenBike](https://github.com/openbikesensor), [Arlas](https://github.com/gisaia)
-- Operational Management: [FleetBase](https://github.com/fleetbase/fleetbase), <s>[Evidenca]()</s>
+- Apps:
+  - Different: [Kitenerary](https://github.com/KDE/kitinerary), [TrackIt](https://github.com/flespi-software/TrackIt),[MyOSMatic](https://print.get-map.org/),
+  - Public Transport: [Trufi](https://github.com/trufi-association),  [TransitWand](https://github.com/conveyal/transit-wand)
+- Display Info:
+  - General: [datatools-ui](https://github.com/ibi-group/datatools-ui),  [Tavla](https://github.com/entur/tavla)
+  - Timetable: [timetable_kit](https://github.com/neroden/timetable_kit), [hsl-map-*](https://github.com/HSLdevcom), [GTFStoHTML](https://gtfstohtml.com/)
+- Management:   
+  - Fleet Management: [FleetBase](https://github.com/fleetbase/fleetbase)
+  - Operational Management: <s>[Evidenca]()</s>
+- Others: 
+  - Hardware: [OpenBike](https://github.com/openbikesensor)
+  - Analytics: [Arlas](https://github.com/gisaia)
 
 
 <br>
@@ -163,7 +173,8 @@ Various open-source apps contribute significantly to transport analytics, each o
 
 AI applications in transport, particularly those built on open-source frameworks, offer innovative solutions for enhancing efficiency and intelligence in transportation systems. Open-source versions of AI tools provide accessibility and transparency, allowing users to understand, modify, and contribute to the underlying code. From traffic prediction to route optimization, these applications leverage machine learning algorithms and neural networks to analyze vast datasets, improving decision-making processes and overall system performance.
 
-- Initiatives: [HOTOSM](https://www.hotosm.org/) 
+- Initiatives:
+  - [HOTOSM](https://www.hotosm.org/) 
 - Predictive Maintenance: <b>TODO</b>
 - AI for Traffic 
   - [(code) Traffic prediction code summary](https://github.com/aptx1231/Traffic-Prediction-Open-Code-Summary)
@@ -172,18 +183,18 @@ AI applications in transport, particularly those built on open-source frameworks
   - [(dataset) Vehicles Trajectory](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction#vehicles-publicly-available-datasets)
   - [(article) Traffic prediction at a minute level](https://www.kaggle.com/code/amitkarmakar41/traffic-prediction-with-fb-prophet-at-minute-level)
 - AI for Modal Share 
-  - [Multicamera Object Tracking](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking)
+  - [(code) Multicamera Object Tracking](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking)
 - Advanced AI:
-  - LLMs: [LLM Geo](https://github.com/gladcolor/LLM-Geo)
+  - [(code) LLM Geo](https://github.com/gladcolor/LLM-Geo)
 - Public Infrastructure AI Solutions
-  - [Road Graph Extraction](https://github.com/songtaohe/Sat2Graph)
-  - [Road Network Classification](https://github.com/ualsg/Road-Network-Classification)
-  - [Satellite Crosswalk Classification](https://github.com/rodrigoberriel/satellite-crosswalk-classification)
-  - [Segmentation Roads](https://github.com/satellite-image-deep-learning/techniques#28-segmentation---roads) 
-  - [Road Detections from Microsoft](https://github.com/microsoft/RoadDetections)
-  - [Crack Instance Segmentation](https://huggingface.co/datasets/fcakyon/crack-instance-segmentation)
-  - [Pothole Segmentation](https://huggingface.co/datasets/keremberke/pothole-segmentation)
-  - [Road segmentation](https://medium.com/@nithishmailme/satellite-imagery-road-segmentation-ad2964dc3812)
+  - [(code) Road Graph Extraction](https://github.com/songtaohe/Sat2Graph)
+  - [(code) Road Network Classification](https://github.com/ualsg/Road-Network-Classification)
+  - [(code) Satellite Crosswalk Classification](https://github.com/rodrigoberriel/satellite-crosswalk-classification)
+  - [(code) Segmentation Roads](https://github.com/satellite-image-deep-learning/techniques#28-segmentation---roads) 
+  - [(dataset) Road Detections from Microsoft](https://github.com/microsoft/RoadDetections)
+  - [(dataset) Crack Instance Segmentation](https://huggingface.co/datasets/fcakyon/crack-instance-segmentation)
+  - [(dataset) Pothole Segmentation](https://huggingface.co/datasets/keremberke/pothole-segmentation)
+  - [(article) Road segmentation](https://medium.com/@nithishmailme/satellite-imagery-road-segmentation-ad2964dc3812)
 
 
 ## Additional Resources
