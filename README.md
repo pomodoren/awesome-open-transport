@@ -9,7 +9,7 @@ Awesome resources for Open-Source Software for (mainly public) Transport.
   - [4. Movement Analytics](#4-movement-analytics)
   - [5. Public Infrastructure](#5-public-infrastructure)
   - [6. Other Tools](#6-other-tools)
-  - [7. Transport AI](#7-transport-ai)
+  - [7. OS AI](#7-os-ai)
 - [Additional Resources](#additional-resources)
   - [Getting Started - IT Infrastructure](#getting-started---it-infrastructure)
   - [Getting Started with Transport AI](#getting-started-with-transport-ai)
@@ -167,33 +167,74 @@ Various open-source apps contribute significantly to transport analytics, each o
 
 <br><br>
 
-### 7. Transport AI
+### 7. OS AI 
 
 AI applications in transport, particularly those built on open-source frameworks, offer innovative solutions for enhancing efficiency and intelligence in transportation systems. Open-source versions of AI tools provide accessibility and transparency, allowing users to understand, modify, and contribute to the underlying code. From traffic prediction to route optimization, these applications leverage machine learning algorithms and neural networks to analyze vast datasets, improving decision-making processes and overall system performance.
 
-- Initiatives:
-  - [HOTOSM](https://www.hotosm.org/) 
-- Predictive Maintenance: <b>TODO</b>
-- AI for Traffic 
-  - [(code) Traffic prediction code summary](https://github.com/aptx1231/Traffic-Prediction-Open-Code-Summary)
-  - [(dataset) LibCity Traffic Data Processing tool](https://github.com/LibCity/Bigscity-LibCity-Datasets)
-  - [(dataset) Open Traffic Collection](https://github.com/graphhopper/open-traffic-collection)
-  - [(dataset) Vehicles Trajectory](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction#vehicles-publicly-available-datasets)
-  - [(article) Traffic prediction at a minute level](https://www.kaggle.com/code/amitkarmakar41/traffic-prediction-with-fb-prophet-at-minute-level)
-- AI for Modal Share 
-  - [(code) Multicamera Object Tracking](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking)
-- Advanced AI:
-  - [(code) LLM Geo](https://github.com/gladcolor/LLM-Geo)
-- Public Infrastructure AI Solutions
-  - [(code) Road Graph Extraction](https://github.com/songtaohe/Sat2Graph)
-  - [(code) Road Network Classification](https://github.com/ualsg/Road-Network-Classification)
-  - [(code) Satellite Crosswalk Classification](https://github.com/rodrigoberriel/satellite-crosswalk-classification)
-  - [(code) Segmentation Roads](https://github.com/satellite-image-deep-learning/techniques#28-segmentation---roads) 
+- Geospatial analysis
+  - <b>Usecase</b> - Near crash prediction based on street curvature
+  - <b>Usecase</b> - Demand estimation based on demographical data 
+  - <b>Usecase</b> - [(code) Road Network Classification](https://github.com/ualsg/Road-Network-Classification)
+  - <b>Usecase</b> - Distribution of services in the city
+  - <b>Usecase</b> - Distribution of public transport in a city
+  - <b>Usecase</b> - EV charging station distribution
+  - <b>Usecase</b> - Landuse and transport relation
+  - <b>Usecase</b> - Safety assessment based on mapped amenities and infrastructure [Link](https://www.kaggle.com/code/hjnotter/using-clustering-to-locate-accident-hotspots)
+- Operational optimization
+  - <b>Usecase</b> - Delay forecasting, ETA estimations
+  - <b>Usecase</b> - Predicting failure of a vehicle (predictive maintenance)
+  - <b>Usecase</b> - Best distribution of service for optimizing charging time for EV fleet
+  - <b>Usecase</b> - Optimize route for logistics
+- Image analysis
+  - <b>Usecase</b> - Safety assessment through combination of factors
+  - <b>Usecase</b> - Monitor infrastructure using image recognition of traffic signs
+  - <b>Usecase</b> - Infrastructure change through drone images
+- Video analysis 
+  - Models: [YOLO]()
+  - Applications:  [(code) Multicamera Object Tracking](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking)
+  - <b>Usecase</b> - Traffic monitoring
+  - <b>Usecase</b> - Modal share counting
+  - <b>Usecase</b> - Parking spots detections
+  - <b>Usecase</b> - Compliance with traffic lights
+  - <b>Usecase</b> - Near crash prediction based on video stream
+  - <b>Usecase</b> - Automated goods tracing (in logistics)
+- Satellite imagery
+  - <b>Usecase</b> - [HOTOSM](https://www.hotosm.org/) detecting buildings destroyed pre-disaster
+  - <b>Usecase</b> - [(article) Road segmentation](https://medium.com/@nithishmailme/satellite-imagery-road-segmentation-ad2964dc3812)
+  - <b>Usecase</b> - [(code) Road Graph Extraction](https://github.com/songtaohe/Sat2Graph)
+  - <b>Usecase</b> - [(code) Satellite Crosswalk Classification](https://github.com/rodrigoberriel/satellite-crosswalk-classification)
+  - <b>Usecase</b> - Track spatial changes using satellite imaging
+  - <b>Usecase</b> - Urban sprawl using historical data
+  - <b>Usecase</b> - Climate impact comparison based on historical data 
+  - <b>Usecase</b> - Demographical distribution based on historical data
+  - <b>Usecase</b> - Vehicle detection from space (e.g. for parking)
+  - <b>List</b> -  [(code) Road Segmentation](https://github.com/satellite-image-deep-learning/techniques#28-segmentation---roads) 
+- Volume Forecasting 
+  - <b>Usecase</b> - Supply forecasting [Link](https://www.kaggle.com/code/aerodinamicc/japanese-cities-and-transport-hubs)
+  - <b>Usecase</b> - [(code) Traffic prediction code summary](https://github.com/aptx1231/Traffic-Prediction-Open-Code-Summary) [Link](https://www.kaggle.com/code/ibrahimkaratas/traffic-prediction-for-intelligent-transportation)
+  - <b>Usecase</b> - [(article) Traffic prediction at a minute level](https://www.kaggle.com/code/amitkarmakar41/traffic-prediction-with-fb-prophet-at-minute-level)
+  - <b>Usecase</b> - Demand estimation for public transport [Link](https://www.kaggle.com/code/hamzaobaid/forecasting-demand-in-public-transportation-system)
+  - <b>Usecase</b> - Micromobility demand estimation 
+- Autonomous vehicles
+  - <b>Usecase</b> - Segment the infrastructure
+  - <b>Usecase</b> - Route finding
+- Generative AI
+  - <b>Usecase</b> - Regenerate a part of the city using common-sensical suggestions
+  - <b>Usecase</b> - Redesign a street using technically possible changes
+  - <b>Usecase</b> - [(code) LLM Geo - general application](https://github.com/gladcolor/LLM-Geo)
+- Customer facing
+  - <b>Usecase</b> - Chatbot for taxi company
+- Disaster risk management
+  - <b>Usecase</b> - Intervention relation with mobility [Link](https://www.kaggle.com/code/achyrogue/impact-of-interventions-through-mobility-data)
+- Datasets:
   - [(dataset) Road Detections from Microsoft](https://github.com/microsoft/RoadDetections)
   - [(dataset) Crack Instance Segmentation](https://huggingface.co/datasets/fcakyon/crack-instance-segmentation)
   - [(dataset) Pothole Segmentation](https://huggingface.co/datasets/keremberke/pothole-segmentation)
-  - [(article) Road segmentation](https://medium.com/@nithishmailme/satellite-imagery-road-segmentation-ad2964dc3812)
+  - [(dataset) LibCity Traffic Data Processing tool](https://github.com/LibCity/Bigscity-LibCity-Datasets)
+  - [(dataset) Open Traffic Collection](https://github.com/graphhopper/open-traffic-collection)
+  - [(dataset) Vehicles Trajectory](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction#vehicles-publicly-available-datasets)
 
+<br><br>
 
 ## Additional Resources
 
