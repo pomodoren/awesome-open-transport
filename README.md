@@ -124,6 +124,7 @@ Mapping public infrastructure using open-source tools provides professionals wit
 - Infrastructure change simlators:
   - Main: [streetmix](https://github.com/streetmix/streetmix), [matsim](https://www.matsim.org/)
   - OSM based: [abstreet](https://github.com/a-b-street/abstreet), [osm2streets](https://github.com/a-b-street/osm2streets), [abstr](https://github.com/a-b-street/abstr)
+  - EV Infrastructure simulator: [ELVIS](https://github.com/dailab/elvis), [spice_ev](https://github.com/rl-institut/spice_ev), [RAMP Mobility](https://github.com/RAMP-project/RAMP-mobility), [TUMFTM](https://github.com/TUMFTM)
 
 
 <br>
@@ -283,6 +284,7 @@ A plethora of online resources is available for those delving into geospatial an
 - Basic Geospatial Analysis:
   - [Geospatial Regression](https://geographicdata.science/book/notebooks/11_regression.html)
   - [Geospatial Clustering](https://geographicdata.science/book/notebooks/10_clustering_and_regionalization.html) 
+  - [Mobility Data Analysis](https://github.com/TUMFTM/Labcourse-Mobility-Data-Analysis/tree/main)
 - Medium Tutorials: [AI4SM](https://medium.com/ai4sm), [GeoAI](https://medium.com/geoai), [NAGorg](https://medium.com/@northamericangeoscientistsorg)
 - Books: [Geographic Data Science](https://geographicdata.science/book/intro.html), [Sustainability GIS](https://sustainability-gis.readthedocs.io/en/latest/index.html)
 - Model list: [Kaggle Transport](https://www.kaggle.com/search?q=Transport)
@@ -293,9 +295,9 @@ A plethora of online resources is available for those delving into geospatial an
     - [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
     - [Journal of Advanced Transportation](https://www.hindawi.com/journals/jat/)
     - [Public Transport](https://link.springer.com/journal/12469/volumes-and-issues)
-  - Groups: [TransitLab MIT](https://www.transitlab.mit.edu/), [Mobility MIT](https://mobility.mit.edu/), [MLSM DTU](https://mlsm.man.dtu.dk/)
+  - Groups: [TransitLab MIT](https://www.transitlab.mit.edu/), [Mobility MIT](https://mobility.mit.edu/), [MLSM DTU](https://mlsm.man.dtu.dk/), [TUMFTM](https://github.com/TUMFTM)
   - Articles: [Deep Learning Papers Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap), [Railway and AI](https://eprints.whiterose.ac.uk/185584/7/1-s2.0-S0968090X22001206-main.pdf), [Urban Computing Papers](https://github.com/Knowledge-Precipitation-Tribe/Spatio-Temporal-papers/tree/master)
-- Disaster Risk Management: [HOT-OSM](https://www.hotosm.org/), [Crisis Ready](https://www.crisisready.io/publications/), [Flood susceptibility](https://github.com/omarseleem92/Machine_learning_for_flood_susceptibility), [Disaster response](https://github.com/satellite-image-deep-learning/techniques#13-disaster-response)
+- Disaster Risk Management: [HOT-OSM](https://www.hotosm.org/), [Crisis Ready](https://www.crisisready.io/publications/), [Flood susceptibility](https://github.com/omarseleem92/Machine_learning_for_flood_susceptibility), [Disaster response](https://github.com/satellite-image-deep-learning/techniques#13-disaster-response), [Evacuation plan](https://www.sciencedirect.com/science/article/abs/pii/S0925753513001562)
 
 
 <br><br>
