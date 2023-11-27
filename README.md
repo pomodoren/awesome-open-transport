@@ -238,6 +238,7 @@ AI applications in transport, particularly those built on open-source frameworks
     - [Code - LLM Geo - general application](https://github.com/gladcolor/LLM-Geo)
 - Customer facing
   - <b>Usecase</b> - Chatbot for taxi company
+  - <b>Usecase</b> - Measuring sentiment on transport topics in social media
 - Disaster risk management
   - <b>Usecase</b> - [HOTOSM](https://www.hotosm.org/) detecting buildings destroyed pre-disaster
   - <b>Usecase</b> - Intervention relation with mobility
@@ -338,9 +339,6 @@ A plethora of online resources is available for those delving into geospatial an
 
 - [SOTM](https://stateofthemap.org/) - conference on OpenStreetMap and related ecosystem
   - [List of Events](https://wiki.openstreetmap.org/wiki/State_of_the_Map), present in Africa, Asia, EU, and more
-  - <b>TODO</b>
 - [FOSS4G](https://foss4g.org/) - conference on OSGeo and related ecosystem
-  - <b>TODO</b>
-- [FOSDEM](https://fosdem.org/)
-  - <b>TODO</b>
+- [FOSDEM](https://fosdem.org/) - general conference on Open-Source - lately has a devroom for transport.
 
