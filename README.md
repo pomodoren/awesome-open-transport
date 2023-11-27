@@ -174,24 +174,34 @@ AI applications in transport, particularly those built on open-source frameworks
 - Geospatial analysis
   - <b>Usecase</b> - Near crash prediction based on street curvature
   - <b>Usecase</b> - Demand estimation based on demographical data 
-  - <b>Usecase</b> - [(code) Road Network Classification](https://github.com/ualsg/Road-Network-Classification)
+  - <b>Usecase</b> - Road network stats
+    - [(code) Road Network Classification](https://github.com/ualsg/Road-Network-Classification)
   - <b>Usecase</b> - Distribution of services in the city
   - <b>Usecase</b> - Distribution of public transport in a city
   - <b>Usecase</b> - EV charging station distribution
   - <b>Usecase</b> - Landuse and transport relation
-  - <b>Usecase</b> - Safety assessment based on mapped amenities and infrastructure [Link](https://www.kaggle.com/code/hjnotter/using-clustering-to-locate-accident-hotspots)
+  - <b>Usecase</b> - Safety assessment based on mapped amenities and infrastructure
+    - [Accident hotspots using clustering](https://www.kaggle.com/code/hjnotter/using-clustering-to-locate-accident-hotspots)
 - Operational optimization
   - <b>Usecase</b> - Delay forecasting, ETA estimations
   - <b>Usecase</b> - Predicting failure of a vehicle (predictive maintenance)
+  - <b>Usecase</b> - Historical analysis for defection type detection
   - <b>Usecase</b> - Best distribution of service for optimizing charging time for EV fleet
   - <b>Usecase</b> - Optimize route for logistics
+  - <b>Usecase</b> - Notification system for predictive maintenance
+    - Legal documentation
+    - Technical check
+    - Electrical equipment failure
+    - Operational runs
 - Image analysis
   - <b>Usecase</b> - Safety assessment through combination of factors
   - <b>Usecase</b> - Monitor infrastructure using image recognition of traffic signs
   - <b>Usecase</b> - Infrastructure change through drone images
 - Video analysis 
-  - Models: [YOLO]()
-  - Applications:  [(code) Multicamera Object Tracking](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking)
+  - Models:
+    - [YOLO]()
+  - Applications: 
+    - [(code) Multicamera Object Tracking](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking)
   - <b>Usecase</b> - Traffic monitoring
   - <b>Usecase</b> - Modal share counting
   - <b>Usecase</b> - Parking spots detections
@@ -199,10 +209,10 @@ AI applications in transport, particularly those built on open-source frameworks
   - <b>Usecase</b> - Near crash prediction based on video stream
   - <b>Usecase</b> - Automated goods tracing (in logistics)
 - Satellite imagery
-  - <b>Usecase</b> - [HOTOSM](https://www.hotosm.org/) detecting buildings destroyed pre-disaster
-  - <b>Usecase</b> - [(article) Road segmentation](https://medium.com/@nithishmailme/satellite-imagery-road-segmentation-ad2964dc3812)
-  - <b>Usecase</b> - [(code) Road Graph Extraction](https://github.com/songtaohe/Sat2Graph)
-  - <b>Usecase</b> - [(code) Satellite Crosswalk Classification](https://github.com/rodrigoberriel/satellite-crosswalk-classification)
+  - <b>Usecase</b> - Road graph extraction from satellite imagery
+    - [(article) Road segmentation](https://medium.com/@nithishmailme/satellite-imagery-road-segmentation-ad2964dc3812)
+    - [(code) Road Graph Extraction](https://github.com/songtaohe/Sat2Graph)
+    - [(code) Satellite Crosswalk Classification](https://github.com/rodrigoberriel/satellite-crosswalk-classification)
   - <b>Usecase</b> - Track spatial changes using satellite imaging
   - <b>Usecase</b> - Urban sprawl using historical data
   - <b>Usecase</b> - Climate impact comparison based on historical data 
@@ -211,8 +221,10 @@ AI applications in transport, particularly those built on open-source frameworks
   - <b>List</b> -  [(code) Road Segmentation](https://github.com/satellite-image-deep-learning/techniques#28-segmentation---roads) 
 - Volume Forecasting 
   - <b>Usecase</b> - Supply forecasting [Link](https://www.kaggle.com/code/aerodinamicc/japanese-cities-and-transport-hubs)
-  - <b>Usecase</b> - [(code) Traffic prediction code summary](https://github.com/aptx1231/Traffic-Prediction-Open-Code-Summary) [Link](https://www.kaggle.com/code/ibrahimkaratas/traffic-prediction-for-intelligent-transportation)
-  - <b>Usecase</b> - [(article) Traffic prediction at a minute level](https://www.kaggle.com/code/amitkarmakar41/traffic-prediction-with-fb-prophet-at-minute-level)
+  - <b>Usecase</b> - Traffic Prediction
+    - [Traffic prediction code summary](https://github.com/aptx1231/Traffic-Prediction-Open-Code-Summary)
+    - [Article on Traffic prediction for intelligent transportation](https://www.kaggle.com/code/ibrahimkaratas/traffic-prediction-for-intelligent-transportation)
+    - [Traffic prediction at a minute level](https://www.kaggle.com/code/amitkarmakar41/traffic-prediction-with-fb-prophet-at-minute-level)
   - <b>Usecase</b> - Demand estimation for public transport [Link](https://www.kaggle.com/code/hamzaobaid/forecasting-demand-in-public-transportation-system)
   - <b>Usecase</b> - Micromobility demand estimation 
 - Autonomous vehicles
@@ -221,11 +233,16 @@ AI applications in transport, particularly those built on open-source frameworks
 - Generative AI
   - <b>Usecase</b> - Regenerate a part of the city using common-sensical suggestions
   - <b>Usecase</b> - Redesign a street using technically possible changes
-  - <b>Usecase</b> - [(code) LLM Geo - general application](https://github.com/gladcolor/LLM-Geo)
+  - <b>Usecase</b> - Geospatial LLM for mobility
+    - [Code - LLM Geo - general application](https://github.com/gladcolor/LLM-Geo)
 - Customer facing
   - <b>Usecase</b> - Chatbot for taxi company
 - Disaster risk management
-  - <b>Usecase</b> - Intervention relation with mobility [Link](https://www.kaggle.com/code/achyrogue/impact-of-interventions-through-mobility-data)
+  - <b>Usecase</b> - [HOTOSM](https://www.hotosm.org/) detecting buildings destroyed pre-disaster
+  - <b>Usecase</b> - Intervention relation with mobility
+    - [Article on intervention using mobility data](https://www.kaggle.com/code/achyrogue/impact-of-interventions-through-mobility-data)
+  - <b>Usecase</b> - Climate change projections for infrastructure degradation
+  - <b>Usecase</b> - Weather impact on infrastructure material
 - Datasets:
   - [(dataset) Road Detections from Microsoft](https://github.com/microsoft/RoadDetections)
   - [(dataset) Crack Instance Segmentation](https://huggingface.co/datasets/fcakyon/crack-instance-segmentation)
