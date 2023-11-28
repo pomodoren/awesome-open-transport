@@ -320,9 +320,6 @@ A plethora of online resources is available for those delving into geospatial an
 - General:
   - [AWESOME ML Resources](https://github.com/josephmisiti/awesome-machine-learning#python)
   - [AWESOME Datasets (Transportation)](https://github.com/awesomedata/awesome-public-datasets#transportation)
-- Industry:
-  - [AWESOME COMPANIES](https://github.com/chrieke/awesome-geospatial-companies)
-  - [AWESOME Companies Mobility](https://github.com/arwagiz/AI-Sustainable-Mobility)
 - Technical:
   - [AWESOME Trajectory Projections (Auto)](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) 
 - Reinforcement Learning:
@@ -330,7 +327,12 @@ A plethora of online resources is available for those delving into geospatial an
 - Timeseries:
   - [AWESOME Time Series](https://github.com/cuge1995/awesome-time-series)
 - Logistics
-  - [Supply Chain tools](https://github.com/Funkmyster/awesome-supply-chain)
+  - [AWESOME Supply Chain](https://github.com/Funkmyster/awesome-supply-chain)
+- Industry:
+  - [AWESOME COMPANIES](https://github.com/chrieke/awesome-geospatial-companies)
+  - [AWESOME Companies Mobility](https://github.com/arwagiz/AI-Sustainable-Mobility)
+- GUIDELINES
+  - [AWESOME Artificial Intelligence Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
 
 
 <br><br>
