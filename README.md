@@ -253,6 +253,16 @@ AI applications in transport, particularly those built on open-source frameworks
   - [(dataset) Open Traffic Collection](https://github.com/graphhopper/open-traffic-collection)
   - [(dataset) Vehicles Trajectory](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction#vehicles-publicly-available-datasets)
 
+
+<br>
+<p align="center">
+  <img src="docs/imgs/05-why-os-ai.png" width="500" style="border: 1px solid black">
+  <br>
+  <b>Why OS AI?</b>
+</p>
+
+
+
 <br><br>
 
 ## Additional Resources
@@ -282,6 +292,8 @@ These tools encompass various aspects such as version control, collaborative dev
 
 A plethora of online resources is available for those delving into geospatial analysis and transportation-related fields. Initiatives like OpenStreetMap and OSGeo contribute to the open-source geospatial community. Academic research is accessible through journals like GeoAI MDPI and IEEE Transactions on Intelligent Transportation Systems, while groups like TransitLab MIT and Mobility MIT foster collaborative research environments. 
 
+- Mapping:
+  - 30 Day Challenge: [Example 30MDCh](https://github.com/tjukanovt/30DayMapChallenge)
 - Basic Geospatial Analysis:
   - [Geospatial Regression](https://geographicdata.science/book/notebooks/11_regression.html)
   - [Geospatial Clustering](https://geographicdata.science/book/notebooks/10_clustering_and_regionalization.html) 
