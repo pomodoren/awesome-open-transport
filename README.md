@@ -331,6 +331,7 @@ A plethora of online resources is available for those delving into geospatial an
   - [AWESOME Mobility Machine Learning - Korea](https://github.com/zzsza/Awesome-Mobility-Machine-Learning-Contents) 
 - General:
   - [AWESOME ML Resources](https://github.com/josephmisiti/awesome-machine-learning#python)
+  - [AWESOME ML Production](https://github.com/EthicalML/awesome-production-machine-learning/)
   - [AWESOME Datasets (Transportation)](https://github.com/awesomedata/awesome-public-datasets#transportation)
 - Technical:
   - [AWESOME Trajectory Projections (Auto)](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) 
